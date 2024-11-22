@@ -1,0 +1,30 @@
+body {background-color: #ffd1d8}
+p {color: deeppink;}
+
+.type1 
+{font-family:roboto,sans-serif; letter-spacing: 2px; }
+
+.type2 
+{font-family: "Edu AU VIC WA NT Pre", cursive;}
+
+.type3
+{font-family: "Merriweather", serif;
+  font-weight: 300;   }
+
+.type4 
+{font-family: "Oswald", sans-serif; line-height: 50px;}
+
+.type5
+{ font-family: "Playfair Display", serif; font-size: x-large}
+
+.type6
+{font-family: "Bebas Neue", sans-serif; text-align: center}
+
+.type7
+{font-family: "Caveat", cursive;}
+
+.type8
+{  font-family: "Zilla Slab", serif;}
+
+.type9
+{  font-family: "Yanone Kaffeesatz", sans-serif;}
