@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+p 
+{
+    color: deeppink
+}
+.boxes 
+{
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    padding: 16px;
+}
+.box 
+{
+    background-color: pink;
+    color: deeppink;
+    flex-grow: 1;
+    min-width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+   padding: 16px;
+    
+}
+
+.hero
+{
+    background-image: url(../images/hero-bg.jpg);
+    color: deeppink;
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+}
+
+header 
+{
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+nav a
+{
+    text-decoration: none;
+    color: deeppink;
+}
+
+.logo
+{
+    width: 80px;
+    
+}

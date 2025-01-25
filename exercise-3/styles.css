@@ -1,0 +1,208 @@
+
+.hero 
+{   background-image: url(thornbloom-website/images/banner-img.jpg);
+    height: 200px;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-top: 20px solid #212f52; }
+
+.logo
+{   float: left;}
+
+.title
+{    color: white;
+    text-align: center; }
+
+.nav 
+{  background-color:aliceblue;
+    align-items: flex-start;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    min-width: 25px;
+    height: 30px;
+    justify-content: space-between;
+   padding: 8px;
+    font-size: smaller; }
+
+.nav-options
+{   float: right;}
+
+p
+{   align-items: stretch; 
+    color: #212f52;
+    word-spacing: 21px; }
+
+.button 
+{   margin-top: 16px;
+    background-color: #212f52;
+    padding: 8px 16px;
+    color: white;
+    display: inline block;
+    text-decoration: none;
+    font-size: x-small}
+
+.button:hover 
+{   background-color: #ffffff;
+    color: #212f52;
+    border: solid;
+    border color: #212f52}
+
+.buttons2
+{
+    display: flex;
+   justify-content: center;
+    column-gap: 20px;
+}
+.welcome
+{   color: #212f52;
+    text-align: center;
+    text-decoration-line: underline;background-position-x: 5px;
+    text-underline-position: under; }
+
+.maintext 
+{
+  text-align: center;
+    color: #212f52;
+    padding-bottom: 20px;}
+
+hr
+{
+    color: #212f52; 
+    width: 80%;}
+
+
+
+
+.img1
+{
+    align-content: left;
+    display: flex;}
+.box1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #212f52; 
+    padding: 16px;
+    padding-top: 20px;}
+.p1
+{
+    text-align: right;
+    float: right;
+    font-size: smaller;
+    margin-left: 4px
+}
+.l1 
+{
+    width: 80%;
+    color: #212f52;
+    float: right;
+}
+
+
+.box2
+{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #212f52; 
+    padding: 16px;
+    flex-direction: row-reverse;
+     }
+    
+
+.img2
+{
+    align-content: right;
+    display: flex;
+}
+
+.p2
+{
+    text-align: left;
+    float: left;
+    font-size: smaller;
+    margin-right: 4px;
+    padding-bottom: 16px;}
+
+
+
+.box3
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #212f52; 
+    padding: 16px;}
+
+.img3
+{
+  align-content: left;
+    display: flex;  }
+
+.p3
+{
+     text-align: right;
+    float: right;
+    font-size: smaller;
+    margin-left: 4px;
+    max-height: 150px;
+    padding-bottom: 75px;}
+
+
+.box4
+{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #212f52; 
+    padding: 16px;
+    flex-direction: row-reverse }
+
+.img 
+{
+   align-content: right;
+    display: flex;
+    }
+    
+
+.p4
+{
+   text-align: left;
+    float: left;
+    font-size: smaller;
+    margin-right: 4px;
+    padding-bottom: 16px;
+}
+
+
+.info
+{
+    text-align: left;
+    font-size: xx-small;
+    background-color: lightgrey;
+    border: solid 16px lightgrey;
+}
+
+.tm
+{
+    text-align: center;
+    font-family: Georgia, 
+}
+
+h1
+{
+    font-family: Cambria, Cochin, Georgia, Times, ;
+    
+}
+
+.title
+{
+    font-family: Impact, Haettenschweiler, ;
+}
